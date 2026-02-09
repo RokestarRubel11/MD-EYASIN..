@@ -1,0 +1,7 @@
+{
+  "name": "Copy of KHMTEAM Business Management",
+  "description": "A comprehensive business management tool featuring inventory, sales tracking, reports, and admin controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
